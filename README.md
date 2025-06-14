@@ -103,6 +103,14 @@ The project includes comprehensive testing that demonstrates:
 
 Run `ComprehensiveBankTest.java` to see all features in action.
 
+## ✨ New Features (Version 2.0)
+
+### Recently Added:
+- **Enhanced Security**: Two-factor authentication support
+- **Account Alerts**: Email notifications for transactions
+- **Mobile Banking**: QR code generation for quick transfers
+- **Loan Management**: Personal and business loan applications
+
 ## 🔄 Future Enhancements
 
 This foundation supports easy extension with:
